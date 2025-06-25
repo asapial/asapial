@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/JRhkmPBs/github-banner-image.jpg" alt="Typing SVG" />
+  <img src="https://i.ibb.co/JRhkmPBs/github-banner-image.jpg" alt="Banner_Image" width="100%" style="max-width:900px; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.15);" />
 </p>
 
 
