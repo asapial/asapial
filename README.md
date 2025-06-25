@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asapial/Profile-Photo/refs/heads/main/Photo/github_banner_image.jpg?token=GHSAT0AAAAAADE52KDUR2Y6LAKLFG7NOFXU2C3THTQ
-  " alt="Typing SVG" />
+  <img src="https://i.ibb.co/JRhkmPBs/github-banner-image.jpg" alt="Typing SVG" />
 </p>
 
 
