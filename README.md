@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/JRhkmPBs/github-banner-image.jpg" alt="Banner_Image"/>
+  <img src="https://raw.githubusercontent.com/asapial/asapial/refs/heads/main/asset/github_banner_image.jpg" alt="Banner_Image"/>
 </p>
 
 
