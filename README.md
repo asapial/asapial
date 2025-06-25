@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asapial/Profile-Photo/refs/heads/main/Photo/github_banner_image.jpg?token=GHSAT0AAAAAADE52KDUR2Y6LAKLFG7NOFXU2C3THTQ
+  " alt="Typing SVG" />
+</p>
+
+
+
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Md Abu Syeed Abdullah</h1>
 <h3 align="center">🚀 Do something new every day 🚀</h3>
 
